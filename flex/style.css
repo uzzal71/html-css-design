@@ -3,7 +3,7 @@
   display: flex;
   height: 600px;
   flex-flow: wrap;
-  align-content: space-between;
+  justify-content: space-between;
 }
 
 .flex-container1 > div {
