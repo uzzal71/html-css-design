@@ -1,7 +1,7 @@
 .flex-container1 {
   background-color: blue;
-  height: 200px;
   display: flex;
+  align-content: flex-end;
 }
 
 .flex-container1 > div {
