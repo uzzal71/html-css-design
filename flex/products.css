@@ -10,6 +10,7 @@
   background-color: #fff;
   margin: 10px 10px;
   padding: 20px;
+  box-shadow: 0px 1px 4px rgb(161, 159, 159);
 }
 
 .product-caption {
@@ -30,6 +31,8 @@
 
 .product {
   padding: 10px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 5px;
 }
 
 .reviews {
