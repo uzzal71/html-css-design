@@ -1,8 +1,9 @@
 .flex-container1 {
+  background-color: blue;
   display: flex;
-  height: 200px;
+  height: 600px;
   flex-flow: wrap;
-  align-items: center;
+  align-content: space-between;
 }
 
 .flex-container1 > div {
