@@ -114,6 +114,7 @@ nav {
     flex-basis: 50%;
 }
 
+/* Left Sidebar */
 .imp-links {
     border-bottom: 1px solid #ccc;
 }
@@ -148,3 +149,10 @@ nav {
   font-weight: 500; 
 }
 
+/* Right Sidebar */
+.sidebar-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
