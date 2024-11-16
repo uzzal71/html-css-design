@@ -34,7 +34,6 @@ a {
     padding: 3vw;
 }
 
-// small screens
 @media only screen and (max-width: 900px) {
     .pf-wrapper {
         flex-direction: column;
