@@ -1,0 +1,16 @@
+{
+  "name": "product-card",
+  "version": "1.0.0",
+  "description": "- 01 The tailwind.config object - 02 Fonts - 03 max-width - 04 font and text classes - 05 Gradients - 06 List Styling - 07 CSS Grid - 08 Background Images - 09 Transform & Transition - 10 Arbitary Values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}

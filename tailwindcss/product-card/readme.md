@@ -1,0 +1,11 @@
+# We will be learning
+- 01 The tailwind.config object
+- 02 Fonts
+- 03 max-width
+- 04 font and text classes
+- 05 Gradients
+- 06 List Styling
+- 07 CSS Grid
+- 08 Background Images
+- 09 Transform & Transition
+- 10 Arbitary Values
