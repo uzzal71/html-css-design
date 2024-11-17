@@ -12,6 +12,10 @@ module.exports = {
         sans: ["Josefin Sans", "sans-sefit"],
         title: ["Playfair Display SC", "serif"],
       },
+      backgroundImage: {
+        mobile: "url('/images/bg-mobile.webp)",
+        desktop: "url('/images/bg-mobile.webp')",
+      },
     },
   },
   plugins: [],
